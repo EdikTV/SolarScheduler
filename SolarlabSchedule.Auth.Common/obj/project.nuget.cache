@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tOsrDWZP2nJZ5J6cVYZ1BWzW9bu26FdVatN0S0PSwpCC6Gy1qwX+h/ij4YWRMv+ed+RIM720hPvuB27R0/gvTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Edik\\source\\repos\\SolarlabSchedule\\EdikTV\\SolarScheduler\\SolarlabSchedule.Auth.Common\\SolarlabSchedule.Auth.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edik\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Edik\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\Edik\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Edik\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

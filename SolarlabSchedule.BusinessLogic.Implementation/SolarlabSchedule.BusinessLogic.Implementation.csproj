@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SolarlabSchedule.BusinessLogic.Abstracts\SolarlabSchedule.BusinessLogic.Abstracts.csproj" />
+    <ProjectReference Include="..\SolarSchedule.Access.Layer.Abstracts\SolarSchedule.Access.Layer.Abstracts.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3aWQsE1tHQiXbJaiutk7LvAqtf2iqru8HorwXJZedaxmqFOkb3zGjtzBjAzMsHDU+G8vJGMacjJ9LjiRtTRN0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Edik\\source\\repos\\SolarlabSchedule\\EdikTV\\SolarScheduler\\SolarlabSchedule.BusinessLogic.Implementation\\SolarlabSchedule.BusinessLogic.Implementation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edik\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Edik\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Edik\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

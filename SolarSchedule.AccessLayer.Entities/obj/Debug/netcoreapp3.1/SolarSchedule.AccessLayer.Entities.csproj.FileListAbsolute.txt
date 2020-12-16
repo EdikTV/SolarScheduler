@@ -1,0 +1,9 @@
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.Entities\bin\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.Entities.deps.json
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.Entities\bin\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.Entities.dll
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.Entities\bin\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.Entities.pdb
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.Entities\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.Entities.AssemblyInfoInputs.cache
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.Entities\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.Entities.AssemblyInfo.cs
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.Entities\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.Entities\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.Entities.dll
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.Entities\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.Entities.pdb
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.Entities\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.Entities.csprojAssemblyReference.cache

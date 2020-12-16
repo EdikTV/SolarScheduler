@@ -1,0 +1,9 @@
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.Auth.Common\bin\Debug\netcoreapp3.1\SolarlabSchedule.Auth.Common.deps.json
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.Auth.Common\bin\Debug\netcoreapp3.1\SolarlabSchedule.Auth.Common.dll
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.Auth.Common\bin\Debug\netcoreapp3.1\SolarlabSchedule.Auth.Common.pdb
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.Auth.Common\obj\Debug\netcoreapp3.1\SolarlabSchedule.Auth.Common.AssemblyInfoInputs.cache
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.Auth.Common\obj\Debug\netcoreapp3.1\SolarlabSchedule.Auth.Common.AssemblyInfo.cs
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.Auth.Common\obj\Debug\netcoreapp3.1\SolarlabSchedule.Auth.Common.csproj.CoreCompileInputs.cache
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.Auth.Common\obj\Debug\netcoreapp3.1\SolarlabSchedule.Auth.Common.dll
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.Auth.Common\obj\Debug\netcoreapp3.1\SolarlabSchedule.Auth.Common.pdb
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.Auth.Common\obj\Debug\netcoreapp3.1\SolarlabSchedule.Auth.Common.csprojAssemblyReference.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SolarlabSchedule.BusinessLogic.Abstracts/1.0.0": {
+        "dependencies": {
+          "SolarlabSchedule.BusinessLogic.Contract": "1.0.0"
+        },
+        "runtime": {
+          "SolarlabSchedule.BusinessLogic.Abstracts.dll": {}
+        }
+      },
+      "SolarlabSchedule.BusinessLogic.Contract/1.0.0": {
+        "runtime": {
+          "SolarlabSchedule.BusinessLogic.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolarlabSchedule.BusinessLogic.Abstracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolarlabSchedule.BusinessLogic.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

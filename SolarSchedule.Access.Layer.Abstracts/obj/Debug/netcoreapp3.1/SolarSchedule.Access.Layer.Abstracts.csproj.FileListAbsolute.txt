@@ -1,0 +1,12 @@
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.Access.Layer.Abstracts\bin\Debug\netcoreapp3.1\SolarSchedule.Access.Layer.Abstracts.deps.json
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.Access.Layer.Abstracts\bin\Debug\netcoreapp3.1\SolarSchedule.Access.Layer.Abstracts.dll
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.Access.Layer.Abstracts\bin\Debug\netcoreapp3.1\SolarSchedule.Access.Layer.Abstracts.pdb
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.Access.Layer.Abstracts\obj\Debug\netcoreapp3.1\SolarSchedule.Access.Layer.Abstracts.AssemblyInfoInputs.cache
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.Access.Layer.Abstracts\obj\Debug\netcoreapp3.1\SolarSchedule.Access.Layer.Abstracts.AssemblyInfo.cs
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.Access.Layer.Abstracts\obj\Debug\netcoreapp3.1\SolarSchedule.Access.Layer.Abstracts.csproj.CoreCompileInputs.cache
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.Access.Layer.Abstracts\obj\Debug\netcoreapp3.1\SolarSchedule.Access.Layer.Abstracts.dll
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.Access.Layer.Abstracts\obj\Debug\netcoreapp3.1\SolarSchedule.Access.Layer.Abstracts.pdb
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.Access.Layer.Abstracts\obj\Debug\netcoreapp3.1\SolarSchedule.Access.Layer.Abstracts.csprojAssemblyReference.cache
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.Access.Layer.Abstracts\bin\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.Entities.dll
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.Access.Layer.Abstracts\bin\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.Entities.pdb
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.Access.Layer.Abstracts\obj\Debug\netcoreapp3.1\SolarSchedule.Access.Layer.Abstracts.csproj.CopyComplete

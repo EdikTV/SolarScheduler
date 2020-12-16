@@ -1,0 +1,9 @@
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.BusinessLogic.Contract\bin\Debug\netcoreapp3.1\SolarlabSchedule.BusinessLogic.Contract.deps.json
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.BusinessLogic.Contract\bin\Debug\netcoreapp3.1\SolarlabSchedule.BusinessLogic.Contract.dll
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.BusinessLogic.Contract\bin\Debug\netcoreapp3.1\SolarlabSchedule.BusinessLogic.Contract.pdb
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.BusinessLogic.Contract\obj\Debug\netcoreapp3.1\SolarlabSchedule.BusinessLogic.Contract.AssemblyInfoInputs.cache
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.BusinessLogic.Contract\obj\Debug\netcoreapp3.1\SolarlabSchedule.BusinessLogic.Contract.AssemblyInfo.cs
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.BusinessLogic.Contract\obj\Debug\netcoreapp3.1\SolarlabSchedule.BusinessLogic.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.BusinessLogic.Contract\obj\Debug\netcoreapp3.1\SolarlabSchedule.BusinessLogic.Contract.dll
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.BusinessLogic.Contract\obj\Debug\netcoreapp3.1\SolarlabSchedule.BusinessLogic.Contract.pdb
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarlabSchedule.BusinessLogic.Contract\obj\Debug\netcoreapp3.1\SolarlabSchedule.BusinessLogic.Contract.csprojAssemblyReference.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SolarSchedule.Access.Layer.Abstracts/1.0.0": {
+        "dependencies": {
+          "SolarSchedule.AccessLayer.Entities": "1.0.0"
+        },
+        "runtime": {
+          "SolarSchedule.Access.Layer.Abstracts.dll": {}
+        }
+      },
+      "SolarSchedule.AccessLayer.Entities/1.0.0": {
+        "runtime": {
+          "SolarSchedule.AccessLayer.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolarSchedule.Access.Layer.Abstracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SolarSchedule.AccessLayer.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

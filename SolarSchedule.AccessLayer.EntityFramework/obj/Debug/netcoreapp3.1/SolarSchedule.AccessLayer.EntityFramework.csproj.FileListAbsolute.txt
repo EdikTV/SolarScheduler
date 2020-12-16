@@ -1,0 +1,17 @@
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\bin\Debug\netcoreapp3.1\SolarSchedule.Access.Layer.Abstracts.dll
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.EntityFramework.csprojAssemblyReference.cache
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.EntityFramework.AssemblyInfo.cs
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\bin\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.Entities.dll
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\bin\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.EntityFramework.deps.json
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\bin\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.EntityFramework.dll
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\bin\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.EntityFramework.pdb
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\bin\Debug\netcoreapp3.1\SolarSchedule.Access.Layer.Abstracts.pdb
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\bin\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.Entities.pdb
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.EntityFramework.csproj.CopyComplete
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.EntityFramework.dll
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.EntityFramework.pdb
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\bin\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.EntityFramework.runtimeconfig.json
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\bin\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.EntityFramework.runtimeconfig.dev.json
+C:\Users\Edik\source\repos\SolarlabSchedule\SolarSchedule.AccessLayer.EntityFramework\obj\Debug\netcoreapp3.1\SolarSchedule.AccessLayer.EntityFramework.genruntimeconfig.cache

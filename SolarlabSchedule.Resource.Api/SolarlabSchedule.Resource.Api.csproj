@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SolarlabSchedule.Auth.Common\SolarlabSchedule.Auth.Common.csproj" />
+    <ProjectReference Include="..\SolarlabSchedule.BusinessLogic.Abstracts\SolarlabSchedule.BusinessLogic.Abstracts.csproj" />
+    <ProjectReference Include="..\SolarlabSchedule.BusinessLogic.Implementation\SolarlabSchedule.BusinessLogic.Implementation.csproj" />
+    <ProjectReference Include="..\SolarSchedule.AccessLayer.EntityFramework\SolarSchedule.AccessLayer.EntityFramework.csproj" />
+  </ItemGroup>
+
+</Project>
